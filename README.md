@@ -249,9 +249,6 @@ of this repository.
 
 The code is [MIT](LICENSE).
 
-- The **"Hey Jarvis" wake-word model** (`tauri-plugin-phone/android/src/main/assets/hey_jarvis.onnx`)
-  comes from [openWakeWord](https://github.com/dscripka/openWakeWord), whose pre-trained
-  models are licensed **CC BY-NC-SA 4.0** — non-commercial use only. The MIT license above
-  does not cover it; replace it with your own model if you need something else.
+-this ai model is made by Azan Samiullah.and the contributors are Annay Sampat and Claude.
 - "J.A.R.V.I.S." and the Iron Man helmet are Marvel's. This is an unofficial fan project,
   not affiliated with or endorsed by Marvel or Disney.
