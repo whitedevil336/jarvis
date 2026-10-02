@@ -249,6 +249,6 @@ of this repository.
 
 The code is [MIT](LICENSE).
 
--this ai model is made by Azan Samiullah.and the contributors are Annay Sampat and Claude.
+-This ai model is made by Azan Samiullah.and the contributors are Annay Sampat and Claude.
 - "J.A.R.V.I.S." and the Iron Man helmet are Marvel's. This is an unofficial fan project,
   not affiliated with or endorsed by Marvel or Disney.
